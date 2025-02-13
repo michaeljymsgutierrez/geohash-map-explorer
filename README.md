@@ -1,4 +1,3 @@
-````markdown
 # Geohash Map Explorer
 
 This React application allows you to visualize and explore the Geohash system by displaying a map with colored regions corresponding to different Geohash prefixes.
@@ -71,4 +70,3 @@ The Geohash Map Explorer is a React application that allows you to visualize and
     ```
 
 This will create an optimized build of your application in the `build` folder.
-````
