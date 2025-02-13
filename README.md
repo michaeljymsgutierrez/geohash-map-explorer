@@ -56,4 +56,4 @@ This will create an optimized build of your application in the `build` folder.
 
 **Demo**
 
-You can check out a live demo of the Geohash Map Explorer here: [https://geohash-map-explorer.vercel.app/dashboard/geohash-explorer](https://geohash-map-explorer.vercel.app/dashboard/geohash-explorer)
+You can check out a live demo of the Geohash Map Explorer [here](https://geohash-map-explorer.vercel.app/dashboard/geohash-explorer)
