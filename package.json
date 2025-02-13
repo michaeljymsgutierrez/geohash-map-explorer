@@ -17,7 +17,8 @@
     "leaflet": "^1.9.4",
     "next": "^15.1.7",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "use-debounce": "^10.0.4"
   },
   "devDependencies": {
     "@faker-js/faker": "^9.0.3",
