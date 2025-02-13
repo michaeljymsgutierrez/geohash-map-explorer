@@ -2,7 +2,6 @@ import './globals.css'
 import 'leaflet/dist/leaflet.css'
 import type { Metadata } from 'next'
 import localFont from 'next/font/local'
-import dynamic from 'next/dynamic'
 
 const geistSans = localFont({
   src: './fonts/GeistVF.woff',
