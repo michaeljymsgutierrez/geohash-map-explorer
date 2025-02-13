@@ -10,11 +10,11 @@ Geohash Map Explorer is a web application that provides an interactive visualiza
 
 **Technologies Used**
 
-- **Next.js:** [https://nextjs.org/](https://nextjs.org/)
-- **Leaflet:** [https://leafletjs.com/](https://leafletjs.com/) (for map interactions)
-- **antd:** [https://ant.design/components/overview/](https://ant.design/components/overview/) (for UI components)
-- **use-debounce:** [https://www.npmjs.com/package/use-debounce](https://www.npmjs.com/package/use-debounce) (for debouncing map updates)
-- **TypeScript:** [https://www.typescriptlang.org/](https://www.typescriptlang.org/)
+- **[Next.js](https://nextjs.org/)**
+- **[Leaflet](https://leafletjs.com/)** (for map interactions)
+- **[antd](https://ant.design/components/overview/)** (for UI components)
+- **[use-debounce](https://www.npmjs.com/package/use-debounce)** (for debouncing map updates)
+- **[TypeScript](https://www.typescriptlang.org/)**
 
 **Project Setup**
 
