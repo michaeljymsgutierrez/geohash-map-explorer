@@ -1,5 +1,3 @@
-import L from 'leaflet'
-
 export type Coordinate = [number, number]
 
 export interface GeohashTableLegend {
