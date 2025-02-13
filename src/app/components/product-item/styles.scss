@@ -1,0 +1,15 @@
+.product-item {
+  .nutriscore-grade {
+    margin-bottom: 10px;
+    text-transform: capitalize;
+  }
+
+  img {
+    object-fit: contain;
+    width: 100%;
+  }
+
+  .view-nutrition-facts {
+    margin-top: 10px;
+  }
+}

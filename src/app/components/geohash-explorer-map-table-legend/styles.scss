@@ -1,0 +1,20 @@
+.geohash-explorer-map-table-legend {
+  top: 0;
+  left: 0;
+  right: auto;
+  margin-top: 10px;
+  margin-left: 10px;
+  height: fit-content;
+  padding: 8px;
+  background-color: var(--background);
+
+  .active-row {
+    color: #fff;
+    background-color: #1677ff;
+    font-weight: bold;
+  }
+
+  .ant-table-cell-row-hover {
+    background-color: transparent !important;
+  }
+}
