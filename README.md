@@ -1,29 +1,12 @@
 # Geohash Map Explorer
 
-This React application allows you to visualize and explore the Geohash system by displaying a map with colored regions corresponding to different Geohash prefixes.
-
 **Overview**
 
-The Geohash Map Explorer is a React application that allows you to visualize and explore the Geohash system. It provides an interactive map interface where you can:
+Geohash Map Explorer is a web application that provides an interactive visualization of the Geohash system. It allows you to explore how geographic coordinates are encoded into a hierarchical grid of increasingly smaller regions. The application features an interactive map where you can:
 
-- **Select a location:** Click on any point on the map to see the corresponding Geohash boxes highlighted.
-- **View Geohash Information:** Get the precise Geohash string for the selected location and see the associated Geohash boxes at different precision levels.
-- **Explore Geohash Grid:** Understand how the Geohash system divides the Earth into a hierarchical grid of increasingly smaller regions.
-
-**How it Works**
-
-1.  **Map Rendering:** The application renders a base map using Leaflet.
-2.  **Click Handling:** When a user clicks on the map, the application captures the clicked coordinates.
-3.  **Geohash Calculation:** The application calculates the Geohash string based on the clicked coordinates (you'll need to implement this logic).
-4.  **Box Rendering:** The application overlays Geohash boxes on the map, highlighting the boxes that correspond to the calculated Geohash string at different precision levels.
-5.  **Information Display:** The application displays the calculated Geohash string, its corresponding latitude and longitude, and the dimensions (width and height) of the Geohash box.
-
-**Features**
-
-- **Interactive Map:** Explore the world map and see how Geohash prefixes divide the Earth into grid-like regions.
-- **Click-to-Geohash:** Click on any point on the map to see the corresponding Geohash boxes highlighted.
-- **Geohash Information:** View the Geohash string for the selected location and see the associated Geohash boxes at different precision levels.
-- **Zoom and Pan:** Explore the map freely using intuitive zoom and pan controls.
+- **Explore the Geohash Grid:** Seamlessly zoom and pan across the world map and observe how the Geohash system recursively subdivides the Earth into a hierarchical grid of increasingly smaller regions.
+- **Visualize Geohash Prefixes:** View colored regions on the map representing different Geohash prefixes at various levels of granularity.
+- **View Geohash Information:** Hover or click on a Geohash box to display its corresponding prefix.
 
 **Technologies Used**
 
