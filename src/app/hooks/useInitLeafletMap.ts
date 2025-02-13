@@ -21,7 +21,7 @@ const useInitLeafletMap = () => {
 
           L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution:
-              '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+              '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> | Made with <span style="color: #e74c3c">&hearts;</span> by <a href="https://github.com/michaeljymsgutierrez">Michael Jyms Gutierrez</a> | <a href="https://github.com/michaeljymsgutierrez/geohash-map-explorer">Fork me on Github</a>',
           }).addTo(mapInstance)
 
           setMap(mapInstance)
