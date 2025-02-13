@@ -10,18 +10,18 @@ Geohash Map Explorer is a web application that provides an interactive visualiza
 
 **Technologies Used**
 
-- Next.js
-- Leaflet (for map interactions)
-- antd (for UI components)
-- use-debounce (for debouncing map updates)
-- TypeScript
+- **Next.js:** [https://nextjs.org/](https://nextjs.org/)
+- **Leaflet:** [https://leafletjs.com/](https://leafletjs.com/) (for map interactions)
+- **antd:** [https://ant.design/components/overview/](https://ant.design/components/overview/) (for UI components)
+- **use-debounce:** [https://www.npmjs.com/package/use-debounce](https://www.npmjs.com/package/use-debounce) (for debouncing map updates)
+- **TypeScript:** [https://www.typescriptlang.org/](https://www.typescriptlang.org/)
 
 **Project Setup**
 
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/michaeljymsgutierrez/geohash-map-explorer.git](https://github.com/michaeljymsgutierrez/geohash-map-explorer.git)
+    git clone https://github.com/michaeljymsgutierrez/geohash-map-explorer.git
     ```
 
 2.  **Navigate to the project directory:**
